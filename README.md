@@ -52,3 +52,10 @@ FACEBOOK_APP_SECRET=...
 
 ## Liên hệ
 - Người phát triển: RETASTE team
+
+## Demo
+Ảnh demo giao diện (menu & gợi ý):
+
+![Demo giao diện](server/docs/demo-screenshot.svg)
+
+Nếu bạn muốn tôi tạo thêm ảnh có giao diện thực tế từ frontend, tôi có thể khởi chạy frontend và chụp màn hình mẫu.

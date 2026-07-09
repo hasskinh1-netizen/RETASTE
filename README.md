@@ -51,11 +51,4 @@ FACEBOOK_APP_SECRET=...
 - Sử dụng GitHub Secrets / CI để lưu biến môi trường khi deploy.
 
 ## Liên hệ
-- Người phát triển: RETASTE team
-
-## Demo
-Ảnh demo giao diện (menu & gợi ý):
-
-![Demo giao diện](server/docs/demo-screenshot.svg)
-
-Nếu bạn muốn tôi tạo thêm ảnh có giao diện thực tế từ frontend, tôi có thể khởi chạy frontend và chụp màn hình mẫu.
+- TEAM phát triển: Nhóm 6 lớp CS 434 SG
